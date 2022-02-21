@@ -1,3 +1,3 @@
 # gan-crypto-prediction
-University of London MSc Thesis using Generative Adversarial Networks
+University of London MSc Thesis
 Title: Generative Adversarial Networks: Applications in CryptoCurrency Price Forecasting
